@@ -1,0 +1,403 @@
+a:4:{s:8:"template";s:18:"construction-light";s:4:"mods";a:67:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:6:"menu-1";i:17;s:6:"menu-2";i:28;}s:18:"custom_css_post_id";i:59;s:11:"custom_logo";i:1650;s:16:"header_textcolor";s:5:"blank";s:12:"header_image";s:142:"http://spthemes.local/renovation/wp-content/uploads/sites/42/2023/03/cropped-wood-house-floor-home-ceiling-construction-633136-pxhere.com_.jpg";s:17:"header_image_data";O:8:"stdClass":5:{s:13:"attachment_id";i:7;s:3:"url";s:142:"http://spthemes.local/renovation/wp-content/uploads/sites/42/2023/03/cropped-wood-house-floor-home-ceiling-construction-633136-pxhere.com_.jpg";s:13:"thumbnail_url";s:142:"http://spthemes.local/renovation/wp-content/uploads/sites/42/2023/03/cropped-wood-house-floor-home-ceiling-construction-633136-pxhere.com_.jpg";s:6:"height";i:249;s:5:"width";i:1000;}s:32:"construction_light_header_layout";s:10:"layout_one";s:26:"construction_light_address";s:44:"60 East 65th Street, New York City, NY 10065";s:30:"construction_light_contact_num";s:13:"(+1)-783,7379";s:24:"construction_light_email";s:14:"inf@domain.com";s:41:"construction_light_quick_info_hide_mobile";s:6:"enable";s:31:"construction_light_menu_sidebar";s:6:"enable";s:35:"construction_light_topheader_social";s:170:"[{"topheader_icon":"fab fa-facebook-f","social_link":"#"},{"topheader_icon":"fab fa-twitter","social_link":"#"},{"topheader_icon":"fab fa-linkedin-in","social_link":"#"}]";s:25:"construction_light_slider";s:324:"[{"super_title":"Trusted by 3million users.","slider_page":"2","button_text":"Contact Us","button_url":"#","button_one_text":"Book Now","button_one_url":"#","video_url":"#"},{"super_title":"sdfsdf","slider_page":"2","button_text":"sdf","button_url":"sdf","button_one_text":"sdf","button_one_url":"sdfsdf","video_url":"sdf"}]";s:26:"construction_light_sliders";s:1723:"[{"image":"http:\/\/demo.sparklewpthemes.com\/constructionlight\/renonvation\/wp-content\/uploads\/sites\/52\/2023\/03\/wood-house-floor-home-ceiling-construction-633136-pxhere.com_.jpg","super_title":"Trusted by 3 million users","title":"Complete Home Renovation Service","subtitle":"Doloremque voluptate fugiat vero at, quas ut maxime natus, error earum, vel, esse hic facilis cumque\u2026","video_url":"https:\/\/www.youtube.com\/watch?v=PJMDFKG52C4&t=13s","alignment":"col-lg-8 text-left","button_link":"#","button_text":"Contact Us","button_link_one":"#","button_text_one":"Book Now"},{"image":"http:\/\/demo.sparklewpthemes.com\/constructionlight\/renonvation\/wp-content\/uploads\/sites\/52\/2023\/03\/architecture-white-house-chair-floor-interior-1204494-pxhere.com_.jpg","super_title":"Quality - Serviec - Ontime","title":"Best Quality Service","subtitle":"Doloremque voluptate fugiat vero at, quas ut maxime natus, error earum, vel, esse hic facilis cumque\u2026","video_url":"https:\/\/www.youtube.com\/watch?v=PJMDFKG52C4&t=13s","alignment":"col-lg-8 cl-center-content text-center mx-auto","button_link":"","button_text":"","button_link_one":"","button_text_one":""},{"image":"http:\/\/demo.sparklewpthemes.com\/constructionlight\/renonvation\/wp-content\/uploads\/sites\/52\/2023\/03\/8_MLI_Accident_SingleFeatureStory_Template_1625x600-compress.jpeg","super_title":"100% Satisfaction Guranty","title":"Will Match Your Dream","subtitle":"Doloremque voluptate fugiat vero at, quas ut maxime natus, error earum, vel, esse hic facilis cumque\u2026","video_url":"","alignment":"col-lg-8 cl-center-content text-center mx-auto","button_link":"#","button_text":"Contact Us","button_link_one":"","button_text_one":""}]";s:39:"construction_light_promoservice_advance";s:1062:"[{"image":"http:\/\/demo.sparklewpthemes.com\/constructionlight\/renonvation\/wp-content\/uploads\/sites\/52\/2023\/03\/architecture-white-house-chair-floor-interior-1204494-pxhere.com_.jpg","icon":"fab fa-accusoft","title":"Renovation","content":"Whole Building Renovation 1st Floor Renovations Basement Renovation All Renovation","link_text":"Details","link":"#"},{"image":"http:\/\/demo.sparklewpthemes.com\/constructionlight\/renonvation\/wp-content\/uploads\/sites\/52\/2023\/03\/wood-house-floor-home-ceiling-construction-633136-pxhere.com_.jpg","icon":"fab fa-accessible-icon","title":"Remodeling","content":"Room Additions Kitchen Remodeling Attic & basement Remodeling","link_text":"Read More","link":"#"},{"image":"http:\/\/demo.sparklewpthemes.com\/constructionlight\/renonvation\/wp-content\/uploads\/sites\/52\/2023\/03\/landscape-grass-architecture-wood-farm-lawn-792610-pxhere.com-1.jpg","icon":"fas fa-anchor","title":"Construction","content":"Renovation Planning New Construction Planning Basement Finishing","link_text":"Read More","link":"#"}]";s:34:"construction_light_service_advance";s:1098:"[{"image":"http:\/\/spthemes.local\/renovation\/wp-content\/uploads\/sites\/42\/2023\/03\/architecture-white-house-chair-floor-interior-1204494-pxhere.com_.jpg","icon":"fas fa-address-book","title":"Fast Reliable Services","content":"Elegant Template Kits compatible with WordPress Full Site Editing to help you create the website you always wanted.","link_text":"Read More","link":"#"},{"image":"","icon":"fas fa-address-book","title":"Skilled & Trained Professionals","content":"Elegant Template Kits compatible with WordPress Full Site Editing to help you create the website you always wanted.","link_text":"Read More","link":"#"},{"image":"","icon":"fab fa-accusoft","title":"Emergency Service","content":"Elegant Template Kits compatible with WordPress Full Site Editing to help you create the website you always wanted.","link_text":"Read More","link":"#"},{"image":"","icon":"icofont-angry-monster","title":"10 Years Warranty","content":"Elegant Template Kits compatible with WordPress Full Site Editing to help you create the website you always wanted.","link_text":"Read More","link":"#"}]";s:26:"construction_light_pricing";s:58:"[{"page":"","price":"","popular":"0","icon":"","type":""}]";s:33:"construction_light_topheader_left";s:8:"top_menu";s:32:"construction_light_primary_color";s:7:"#007aff";s:35:"construction_light_enable_frontpage";b:1;s:30:"construction_light_slider_type";s:7:"advance";s:40:"construction_light_banner_slider_section";s:6:"enable";s:40:"construction_light_banner_contact_enable";s:7:"disable";s:36:"construction_light_promoservice_type";s:7:"advance";s:34:"construction_renovation_service_up";b:1;s:37:"construction_light_frontpage_sections";a:14:{i:0;s:39:"construction_light_promoservice_section";i:1;s:34:"construction_light_service_section";i:2;s:34:"construction_light_aboutus_section";i:3;s:35:"construction_light_freetext_section";i:4;s:34:"construction_light_counter_section";i:5;s:34:"construction_light_pricing_section";i:6;s:45:"construction_light_video_calltoaction_section";i:7;s:39:"construction_light_calltoaction_section";i:8;s:37:"construction_light_recentwork_section";i:9;s:31:"construction_light_blog_section";i:10;s:38:"construction_light_testimonial_section";i:11;s:31:"construction_light_team_section";i:12;s:33:"construction_light_client_section";i:13;s:44:"construction_light_frontpage_upgrade_section";}s:32:"construction_light_service_title";s:30:"Trusted Plumbing Professionals";s:36:"construction_light_service_sub_title";s:138:"Globally actualize premier testing procedures and user-centric e-business. Holisticly productivate cross-media core competencies for 24/7.";s:31:"construction_light_service_type";s:7:"advance";s:33:"construction_light_service_layout";s:11:"layout_four";s:38:"construction_light_service_super_title";s:11:"What we do?";s:26:"construction_light_aboutus";i:32;s:34:"construction_light_aboutus_content";s:12:"full_content";s:32:"construction_light_counter_image";s:167:"http://demo.sparklewpthemes.com/constructionlight/renonvation/wp-content/uploads/sites/52/2023/03/architecture-white-house-chair-floor-interior-1204494-pxhere.com_.jpg";s:26:"construction_light_counter";s:538:"[{"counter_icon":"far fa-copy","counter_title":"Finished Projects","counter_number":"986","counter_prefix":"","counter_suffix":"+"},{"counter_icon":"fab fa-gitkraken","counter_title":"Happy Clients","counter_number":"896","counter_prefix":"","counter_suffix":"+"},{"counter_icon":"fas fa-user-secret","counter_title":"Skilled Expert","counter_number":"396","counter_prefix":"","counter_suffix":"+"},{"counter_icon":"fab fa-affiliatetheme","counter_title":"Honorable Awards","counter_number":"500","counter_prefix":"","counter_suffix":""}]";s:38:"construction_light_cta_service_section";s:7:"disable";s:44:"construction_light_video_cta_service_section";s:7:"disable";s:34:"construction_light_recentwork_type";s:7:"advance";s:36:"construction_light_advance_portfolio";s:94:"[{"title":"Renovation","gallery":"13,12,11"},{"title":"Construction","gallery":"13,11,17,12"}]";s:35:"construction_light_recentwork_title";s:17:"AWESOME PORTFOLIO";s:39:"construction_light_recentwork_sub_title";s:12:"Recent Works";s:36:"construction_light_home_blog_section";s:7:"disable";s:36:"construction_light_testimonial_title";s:11:"Testimonial";s:40:"construction_light_testimonial_sub_title";s:11:"Testimonial";s:31:"construction_light_testimonials";s:164:"[{"testimonial_page":"18","designation":"Founder"},{"testimonial_page":"24","designation":"Destination"},{"testimonial_page":"26","designation":"Marketing Expert"}]";s:37:"construction_light_testimonials_image";s:165:"http://demo.sparklewpthemes.com/constructionlight/renonvation/wp-content/uploads/sites/52/2023/03/landscape-grass-architecture-wood-farm-lawn-792610-pxhere.com-1.jpg";s:31:"construction_light_team_options";s:6:"enable";s:38:"construction_light_client_logo_options";s:7:"disable";s:35:"construction_light_freetext_section";s:6:"enable";s:28:"construction_light_free_text";s:29123:"<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"20px","left":"20px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull" id="why" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:cover {"url":"http://demo.sparklewpthemes.com/constructionlight/renonvation/wp-content/uploads/sites/52/2023/03/wood-house-floor-home-ceiling-construction-633136-pxhere.com_.jpg","id":12,"dimRatio":30,"minHeight":100,"minHeightUnit":"vh","contentPosition":"center center","isDark":false,"style":{"color":[]}} -->
+<div class="wp-block-cover is-light" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-12" alt="" src="http://demo.sparklewpthemes.com/constructionlight/renonvation/wp-content/uploads/sites/52/2023/03/wood-house-floor-home-ceiling-construction-633136-pxhere.com_.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"blockGap":"0"}},"className":"box-shadow-ripples is-justify-center","layout":{"type":"constrained"}} -->
+<div class="wp-block-group box-shadow-ripples is-justify-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}},"className":"dashicons dashicons-youtube is-justify-center","fontSize":"slider-title"} -->
+<p class="has-text-align-center dashicons dashicons-youtube is-justify-center has-slider-title-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><a href="#">P</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"0px"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"20px"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:paragraph {"style":{"typography":{"letterSpacing":"1px"}},"textColor":"primary","className":"animated animated-fadeInUp","fontSize":"medium"} -->
+<p class="animated animated-fadeInUp has-primary-color has-text-color has-medium-font-size" style="letter-spacing:1px">WE ARE ALWAYS FOCUSED ON</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"hide-on-mobile","layout":{"wideSize":"34px"}} -->
+<div class="wp-block-group hide-on-mobile"><!-- wp:separator {"backgroundColor":"primary"} -->
+<hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background" />
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"style":{"typography":{"lineHeight":"1.2"}},"className":" animated animated-fadeInUp","fontSize":"slider-title"} -->
+<h2 class="animated animated-fadeInUp has-slider-title-font-size" style="line-height:1.2">Why Choose Us? </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"animated animated-fadeInUp"} -->
+<p class="animated animated-fadeInUp">Change the workflow for your WordPress site, and control everything from the Site editor without using any extra plugins. Improved speed, web vitals score and SEO to get better positions</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile animated animated-fadeInUp"><!-- wp:column {"verticalAlignment":"top","width":"100px"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:100px"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}}} -->
+<div class="wp-block-group"><!-- wp:image {"align":"center","id":3974,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"0px"},"color":{"duotone":["#315aac","#315aac"]}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="https://demo.sparkletheme.com/sparkle-fse/wp-content/themes/sparkle-fse-pro/images/icon-1.png" alt="" class="wp-image-3974" style="border-radius:0px" width="50" height="50" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} -->
+<h4 style="font-style:normal;font-weight:400"><a href="#">Business Service</a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Quickly productive just in time strategic theme.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile animated animated-fadeInUp"><!-- wp:column {"verticalAlignment":"top","width":"100px"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:100px"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}}} -->
+<div class="wp-block-group"><!-- wp:image {"align":"center","id":3974,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"0px"},"color":{"duotone":["#315aac","#315aac"]}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="https://demo.sparkletheme.com/sparkle-fse/wp-content/themes/sparkle-fse-pro/images/icon-2.png" alt="" class="wp-image-3974" style="border-radius:0px" width="50" height="50" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} -->
+<h4 style="font-style:normal;font-weight:400"><a href="#">Industries</a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Quickly productive just in-time strategic theme.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile animated animated-fadeInUp"><!-- wp:column {"verticalAlignment":"top","width":"100px"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:100px"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}}} -->
+<div class="wp-block-group"><!-- wp:image {"align":"center","id":3974,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"0px"},"color":{"duotone":["#315aac","#315aac"]}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="https://demo.sparkletheme.com/sparkle-fse/wp-content/themes/sparkle-fse-pro/images/icon-6.png" alt="" class="wp-image-3974" style="border-radius:0px" width="50" height="50" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} -->
+<h4 style="font-style:normal;font-weight:400"><a href="#">Team Management</a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Quickly productive just in-time strategic theme.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile animated animated-fadeInUp"><!-- wp:column {"verticalAlignment":"top","width":"100px"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:100px"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}}} -->
+<div class="wp-block-group"><!-- wp:image {"align":"center","id":3974,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"0px"},"color":{"duotone":["#315aac","#315aac"]}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="https://demo.sparkletheme.com/sparkle-fse/wp-content/themes/sparkle-fse-pro/images/icon-4.png" alt="" class="wp-image-3974" style="border-radius:0px" width="50" height="50" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} -->
+<h4 style="font-style:normal;font-weight:400"><a href="#">Healthcare</a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Quickly productive just in time strategic theme.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile animated animated-fadeInUp"><!-- wp:column {"verticalAlignment":"top","width":"100px"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:100px"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}}} -->
+<div class="wp-block-group"><!-- wp:image {"align":"center","id":3974,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"0px"},"color":{"duotone":["#315aac","#315aac"]}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="https://demo.sparkletheme.com/sparkle-fse/wp-content/themes/sparkle-fse-pro/images/icon-5.png" alt="" class="wp-image-3974" style="border-radius:0px" width="50" height="50" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} -->
+<h4 style="font-style:normal;font-weight:400"><a href="#">Stock Trading</a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Quickly productivate just in time strategic theme.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp"} -->
+<div class="wp-block-columns is-not-stacked-on-mobile animated animated-fadeInUp"><!-- wp:column {"verticalAlignment":"top","width":"100px"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:100px"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}}} -->
+<div class="wp-block-group"><!-- wp:image {"align":"center","id":3974,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"0px"},"color":{"duotone":["#315aac","#315aac"]}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="https://demo.sparkletheme.com/sparkle-fse/wp-content/themes/sparkle-fse-pro/images/icon-3.png" alt="" class="wp-image-3974" style="border-radius:0px" width="50" height="50" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} -->
+<h4 style="font-style:normal;font-weight:400"><a href="#">Technology</a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Quickly productivate just in time strategic theme.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","verticalAlignment":"center","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":21,"width":80,"height":80,"sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"100px"}}} -->
+<figure class="wp-block-image size-thumbnail is-resized has-custom-border"><img src="https://demo.sparklewpthemes.com/constructionlight/renonvation/wp-content/uploads/sites/52/2023/03/team02-150x150.jpeg" alt="" class="wp-image-21" style="border-radius:100px" width="80" height="80" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"blockGap":"0"}}} -->
+<div class="wp-block-column" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":3} -->
+<h3>Johan Deo</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Founder/CEO</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"width":175,"height":66,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"100px"}}} -->
+<figure class="wp-block-image size-large is-resized has-custom-border"><img src="https://demo.sparklewpthemes.com/constructionlight/insurance-lite/wp-content/uploads/sites/48/2022/07/signature.png" alt="" style="border-radius:100px" width="175" height="66" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"20px","left":"20px"}}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-background-background-color has-background" id="process" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"top","style":{"spacing":[]}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"20px"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:paragraph {"textColor":"primary","className":"animated animated-fadeInUp","fontSize":"medium"} -->
+<p class="animated animated-fadeInUp has-primary-color has-text-color has-medium-font-size">&nbsp;Working Process</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"wideSize":"34px"}} -->
+<div class="wp-block-group"><!-- wp:separator {"backgroundColor":"primary"} -->
+<hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background" />
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:heading {"className":" animated animated-fadeInUp","fontSize":"slider-title"} -->
+<h2 class="animated animated-fadeInUp has-slider-title-font-size">Hire Business</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"typography":{"lineHeight":"1.2"}},"textColor":"secondary","className":" animated animated-fadeInUp","fontSize":"slider-title"} -->
+<h2 class="animated animated-fadeInUp has-secondary-color has-text-color has-slider-title-font-size" style="line-height:1.2">Consult</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"70px"}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"25px","bottom":"25px","left":"25px"}}},"className":"has-shadow-dark hide-on-mobile","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark hide-on-mobile" style="padding-top:25px;padding-right:25px;padding-bottom:25px;padding-left:25px"><!-- wp:paragraph {"style":{"typography":{"fontSize":"30px"}},"textColor":"primary","className":"dashicons dashicons-phone has-item-center"} -->
+<p class="dashicons dashicons-phone has-item-center has-primary-color has-text-color" style="font-size:30px"></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"blockGap":"5px"},"border":{"width":"0px","style":"none"}},"className":"has-shadow-dark   image-wrap  process-content ","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark image-wrap process-content" style="border-style:none;border-width:0px;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><!-- wp:heading {"level":4,"fontFamily":"poppins"} -->
+<h4 class="has-poppins-font-family">Request A Quote</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300">Fowl creature toward female dont over thering</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300"> owner given darkness creature live</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"70px"}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"blockGap":"5px"},"border":{"width":"0px","style":"none"}},"className":"has-shadow-dark  image-wrap process-content ","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark image-wrap process-content" style="border-style:none;border-width:0px;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><!-- wp:heading {"level":4,"fontFamily":"poppins"} -->
+<h4 class="has-poppins-font-family">Research Project</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300">Fowl creature toward female dont over thering</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300"> owner given darkness creature live</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"25px","bottom":"25px","left":"25px"}}},"className":"has-shadow-dark hide-on-mobile","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark hide-on-mobile" style="padding-top:25px;padding-right:25px;padding-bottom:25px;padding-left:25px"><!-- wp:paragraph {"style":{"typography":{"fontSize":"30px"}},"textColor":"primary","className":"dashicons dashicons-media-document has-item-center"} -->
+<p class="dashicons dashicons-media-document has-item-center has-primary-color has-text-color" style="font-size:30px"></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"70px"}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"25px","bottom":"25px","left":"25px"}}},"className":"has-shadow-dark hide-on-mobile","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark hide-on-mobile" style="padding-top:25px;padding-right:25px;padding-bottom:25px;padding-left:25px"><!-- wp:paragraph {"style":{"typography":{"fontSize":"30px"}},"textColor":"primary","className":"dashicons dashicons-admin-users has-item-center"} -->
+<p class="dashicons dashicons-admin-users has-item-center has-primary-color has-text-color" style="font-size:30px"></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"blockGap":"5px"},"border":{"width":"0px","style":"none"}},"className":"has-shadow-dark image-wrap  process-content ","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark image-wrap process-content" style="border-style:none;border-width:0px;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><!-- wp:heading {"level":4,"fontFamily":"poppins"} -->
+<h4 class="has-poppins-font-family">Satisfied Works</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300">Fowl creature toward female dont over thering</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300"> owner given darkness creature live</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":[]}} -->
+<div class="wp-block-column"><!-- wp:group {"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:cover {"url":"http://demo.sparklewpthemes.com/constructionlight/renonvation/wp-content/uploads/sites/52/2023/03/architecture-white-house-chair-floor-interior-1204494-pxhere.com_.jpg","id":11,"dimRatio":0,"minHeight":100,"minHeightUnit":"vh","style":{"color":[]}} -->
+<div class="wp-block-cover" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-11" alt="" src="http://demo.sparklewpthemes.com/constructionlight/renonvation/wp-content/uploads/sites/52/2023/03/architecture-white-house-chair-floor-interior-1204494-pxhere.com_.jpg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"primary","className":"hide-on-mobile","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide hide-on-mobile has-primary-background-color has-background" style="margin-top:0;margin-bottom:0"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":1165,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.sparkletheme.com/sparkle-fse/sections/wp-content/uploads/sites/27/2023/02/brand_1.png" alt="" class="wp-image-1165" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":1166,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.sparkletheme.com/sparkle-fse/sections/wp-content/uploads/sites/27/2023/02/brand_2.png" alt="" class="wp-image-1166" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":1167,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.sparkletheme.com/sparkle-fse/sections/wp-content/uploads/sites/27/2023/02/brand_3.png" alt="" class="wp-image-1167" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":1169,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.sparkletheme.com/sparkle-fse/sections/wp-content/uploads/sites/27/2023/02/brand.png" alt="" class="wp-image-1169" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->";s:37:"construction_light_pro_freetext_image";s:0:"";s:38:"construction_light_aboutus_progressbar";b:0;s:30:"construction_light_progressbar";s:122:"[{"progressbar_title":"Awards","progressbar_number":"4849"},{"progressbar_title":"Employment","progressbar_number":"887"}]";s:29:"construction_light_team_title";s:11:"Team Member";s:33:"construction_light_team_sub_title";s:27:"See Our Skilled Expert Team";s:23:"construction_light_team";s:441:"[{"team_page":"26","designation":"Marketing Executive","facebook":"#","twitter":"$","linkedin":"$","instagram":"$"},{"team_page":"18","designation":"CEO, Founder","facebook":"#","twitter":"$","linkedin":"$","instagram":""},{"team_page":"24","designation":"Digital Expert","facebook":"#","twitter":"#","linkedin":"#","instagram":""},{"team_page":"26","designation":"Marketing Head","facebook":"","twitter":"#","linkedin":"#","instagram":"#"}]";s:35:"construction_light_aboutus_show_faq";b:0;s:30:"construction_light_aboutus_faq";s:27:"[{"page":"2"},{"page":"2"}]";s:36:"construction_light_aboutus_alignment";s:9:"text-left";s:37:"construction_light_aboutus_text_color";s:7:"#000000";s:35:"construction_light_aboutus_bg_color";s:7:"#ffffff";s:29:"construction_light_blog_title";s:16:"Our Blog Section";s:33:"construction_light_blog_sub_title";s:7:"Section";s:23:"construction_light_blog";s:1:"1";s:36:"construction_light_breadcrumbs_image";s:115:"http://demo.sparklewpthemes.com/constructionlight/renonvation/wp-content/uploads/sites/52/2023/03/breadcrumb-1.jpeg";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:735:"@media(min-width: 1000px){
+.breadcrumb {
+    margin-top: -35px !important;
+}
+	.cons_light_feature .feature-list .icon-box{
+		top: -82px;
+	}
+}
+.home .breadcrumb {
+    display: none;
+}
+@media(min-width: 1200px){
+.has-margin-top-minus-100{
+	margin-top: -120px !important;
+	position: relative;
+	z-index: 2;
+}
+}
+
+/** slider **/
+.wp-block-eedee-block-gutenslider .wp-block-eedee-block-gutenslide .slide-content>*{
+	width: 100%;
+}
+a:hover, a:active, a:hover,
+.wp-block-navigation ul li a:hover, .wp-block-navigation ul li a:focus, .wp-block-navigation ul li a:active,
+.wp-block-navigation ul li.current-menu-item>a {
+    color: unset;
+    outline: none;
+    opacity: 0.5;
+}
+@media(min-width: 1000px){
+.fse-home-slider{
+	margin-top: -35px;
+}
+}";}

@@ -1,0 +1,221 @@
+/*
+Theme Name: Construction RenovationX
+Theme URI: https://sparklewpthemes.com/wordpress-themes/construction-wordpress-theme/
+Author: sparklewpthemes
+Author URI: https://sparklewpthemes.com/
+Description: Construction RenovationX is a stunning, advanced, exciting, free construction WordPress theme that is responsive and simple to use. With the aid of the theme's default customizer features and 10+ custom patterns, you can design & develop a variety of business websites, including those for consulting, finance, agencies, industries, education, fashion, health & medical, wedding, photography, gyms, architecture, and lawyers. Construction RenovationX theme has some exciting features like (reorder each home section), cross-browser compatible, translation ready, site speed optimized, SEO friendly theme, and also supports WooCommerce. It is also fully compatible with the newest page builders plugins (Elementor, SiteOrigin, Visual Composer). And it's include 10+ different patterns, which you can design and implement in any page or post to create, edit, and update your page design. You can consult our theme documentation or get in touch with our helpful support staff if you experience any issues with our theme.
+Version: 1.1.0
+Tested up to: 6.5
+Requires PHP: 7.2
+Requires at least: 6.4
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: construction-light
+Text Domain: construction-renovationx
+Tags: one-column, two-columns, right-sidebar, left-sidebar, custom-header, custom-background, custom-menu, translation-ready, featured-images, theme-options, custom-logo, e-commerce, footer-widgets
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Construction RenovationX  is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+sparklewpthemes is distributed under the terms of the GNU GPL v3 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+@media (max-width: 767px) {
+
+    body .hide-on-mobile {
+
+        display: none !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    body .hide-on-tablet {
+        
+        display: none !important;
+    }
+}
+
+@media (min-width: 1025px) {
+    body .hide-on-desktop {
+        display: none !important;
+    }
+}
+
+.banner-slider .slider-item .slider-content .super-title {
+    color: #fff;
+}
+
+.banner-slider .slider-item .slider-content .slider-title {
+    line-height: 1.2;
+}
+
+.btn-area.video_calltoaction_wrap a {
+    margin-bottom: 10px;
+}
+
+@media(min-width: 769px) {
+    .btn-area.video_calltoaction_wrap.flex-align {
+        display: flex;
+        align-items: center;
+    }
+    .btn-area.video_calltoaction_wrap.text-center.flex-align {
+        justify-content: center;
+    }
+    .btn-area.video_calltoaction_wrap.col-lg-8.flex-align {
+        max-width: 100%;
+    }
+}
+
+.cons_light_feature .feature-list .box {
+    border-radius: 4px;
+}
+
+@media (min-width: 1300px) {
+    .container {
+        max-width: 1270px;
+    }
+}
+
+@media(min-width: 1000px) {
+    .cl-promoservice-section.service-up .cl-section-wrap {
+        margin-top: -120px;
+        position: relative;
+        z-index: 2;
+    }
+}
+
+
+.features-slider-1.banner-slider.owl-carousel .owl-nav button.owl-prev,
+.features-slider-1.banner-slider.owl-carousel .owl-nav button.owl-next {
+    left: unset;
+    right: 183px;
+    bottom: 110px;
+    top: unset;
+}
+
+.features-slider-1.banner-slider.owl-carousel .owl-nav button.owl-next {
+    right: 80px;
+}
+
+.dashicons {
+    height: auto;
+    width: auto;
+}
+
+.box-shadow-ripples .dashicons a,
+.youtube-popup-link a {
+    display: none;
+}
+
+.cons_light_counter_part {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.cons_light_counter-icon.achivement-wrapper {
+    font-size: 84px;
+    color: #fff;
+    transform: translate(0);
+}
+
+.cons_light_client_logo_layout_two,
+.cons_light_counter_wrap {
+    padding: 100px 0;
+}
+
+.cons_light_counter_wrapper {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.counter_suffix {
+    margin-left: -10px;
+}
+
+.site-footer .widget {
+    margin: 0 0;
+}
+
+#free-hand-text-section::before {
+    display: none;
+}
+
+.cons_light_team_layout_two .box figure {
+    border-radius: 0;
+}
+
+.cons_light_team_layout_two .box span {
+    text-align: unset;
+    margin-bottom: 15px;
+}
+
+/** about us */
+.section-title:before,
+.about-title {
+    display: none;
+}
+
+.about_us_front .achivement-items ul li {
+    padding-right: 45px !important;
+}
+
+.about_us_front h3.ui-accordion-header {
+    border-radius: 25px;
+    padding: 10px 40px;
+}
+
+.about_us_front h3.ui-accordion-header:before {
+    left: 7px;
+}
+
+.cons_light_team_layout_two,
+.cons_ligcons_light_portfolio-section {
+    margin: 80px 0;
+}
+
+a.popup-youtube,
+a.btn,
+.menu-item a,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    text-decoration: none;
+}
+
+.page-template-template-pagebuilder .breadcrumb {
+    margin-top: -35px;
+}
+
+@media(max-width: 768px) {
+    .row.cons_light_team-counter-wrap .cons_light_counter_part {
+        margin-bottom: 2em;
+    }
+
+    .cons_light_team_layout_two.layout_one .box {
+        display: block !important;
+    }
+}
+
+.cons_light_feature .feature-list h3{
+    margin-bottom: 0.5rem
+}
+
+.cons_light_feature .feature-list h3 a{
+    font-size: 28px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.sp-banner-wrapper .video_calltoaction_wrap a.popup-youtube{
+    margin: initial;
+    margin-left: 80px;
+}

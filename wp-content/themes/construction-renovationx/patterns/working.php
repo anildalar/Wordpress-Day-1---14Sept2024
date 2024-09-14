@@ -1,0 +1,163 @@
+<?php
+ /**
+  * Title: Working
+  * Slug: construction-renovationx/working
+  * Categories: construction-renovationx
+  * Keywords: section, process, working
+  */
+?>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"20px","left":"20px"}}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-background-background-color has-background" id="process" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"top","style":{"spacing":{}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"20px"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:paragraph {"textColor":"primary","className":"animated animated-fadeInUp","fontSize":"medium"} -->
+<p class="animated animated-fadeInUp has-primary-color has-text-color has-medium-font-size">&nbsp;Working Process</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"wideSize":"34px"}} -->
+<div class="wp-block-group"><!-- wp:separator {"backgroundColor":"primary"} -->
+<hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"wrap"}} -->
+<div class="wp-block-group"><!-- wp:heading {"className":" animated animated-fadeInUp","fontSize":"slider-title"} -->
+<h2 class="animated animated-fadeInUp has-slider-title-font-size">Hire Business</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"typography":{"lineHeight":"1.2"}},"textColor":"primary","className":" animated animated-fadeInUp","fontSize":"slider-title"} -->
+<h2 class="animated animated-fadeInUp has-primary-color has-text-color has-slider-title-font-size" style="line-height:1.2">Consult</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"70px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"25px","bottom":"25px","left":"25px"}}},"className":"has-shadow-dark","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark" style="padding-top:25px;padding-right:25px;padding-bottom:25px;padding-left:25px"><!-- wp:paragraph {"style":{"typography":{"fontSize":"30px"}},"textColor":"primary","className":"dashicons dashicons-phone has-item-center"} -->
+<p class="dashicons dashicons-phone has-item-center has-primary-color has-text-color" style="font-size:30px"></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"blockGap":"5px"},"border":{"width":"0px","style":"none"}},"className":"has-shadow-dark   image-wrap  process-content ","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark image-wrap process-content" style="border-style:none;border-width:0px;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><!-- wp:heading {"level":4,"fontFamily":"poppins"} -->
+<h4 class="has-poppins-font-family">Request A Quote</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300">Fowl creature toward female dont over thering</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300"> owner given darkness creature live</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"70px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"blockGap":"5px"},"border":{"width":"0px","style":"none"}},"className":"has-shadow-dark  image-wrap process-content ","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark image-wrap process-content" style="border-style:none;border-width:0px;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><!-- wp:heading {"level":4,"fontFamily":"poppins"} -->
+<h4 class="has-poppins-font-family">Research Project</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300">Fowl creature toward female dont over thering</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300"> owner given darkness creature live</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"25px","bottom":"25px","left":"25px"}}},"className":"has-shadow-dark","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark" style="padding-top:25px;padding-right:25px;padding-bottom:25px;padding-left:25px"><!-- wp:paragraph {"style":{"typography":{"fontSize":"30px"}},"textColor":"primary","className":"dashicons dashicons-media-document has-item-center"} -->
+<p class="dashicons dashicons-media-document has-item-center has-primary-color has-text-color" style="font-size:30px"></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"70px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"25px","right":"25px","bottom":"25px","left":"25px"}}},"className":"has-shadow-dark","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark" style="padding-top:25px;padding-right:25px;padding-bottom:25px;padding-left:25px"><!-- wp:paragraph {"style":{"typography":{"fontSize":"30px"}},"textColor":"primary","className":"dashicons dashicons-admin-users has-item-center"} -->
+<p class="dashicons dashicons-admin-users has-item-center has-primary-color has-text-color" style="font-size:30px"></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"blockGap":"5px"},"border":{"width":"0px","style":"none"}},"className":"has-shadow-dark image-wrap  process-content ","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-shadow-dark image-wrap process-content" style="border-style:none;border-width:0px;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><!-- wp:heading {"level":4,"fontFamily":"poppins"} -->
+<h4 class="has-poppins-font-family">Satisfied Works</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300">Fowl creature toward female dont over thering</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"foreground","fontFamily":"poppins"} -->
+<p class="has-foreground-color has-text-color has-poppins-font-family" style="font-style:normal;font-weight:300"> owner given darkness creature live</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{}}} -->
+<div class="wp-block-column"><!-- wp:group {"className":" animated animated-fadeInUp"} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:cover {"url":"https://demo.sparkletheme.com/hello-fse/renovation/wp-content/uploads/sites/5/2023/03/architecture-white-house-chair-floor-interior-1204494-pxhere.com_-1024x683.jpg","id":35,"dimRatio":0,"minHeight":540,"minHeightUnit":"px","isDark":false,"style":{"color":{}}} -->
+<div class="wp-block-cover is-light" style="min-height:540px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-35" alt="" src="https://demo.sparkletheme.com/hello-fse/renovation/wp-content/uploads/sites/5/2023/03/architecture-white-house-chair-floor-interior-1204494-pxhere.com_-1024x683.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"primary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide has-primary-background-color has-background" style="margin-top:0;margin-bottom:0"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":1165,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.sparkletheme.com/sparkle-fse/sections/wp-content/uploads/sites/27/2023/02/brand_1.png" alt="" class="wp-image-1165"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":1166,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.sparkletheme.com/sparkle-fse/sections/wp-content/uploads/sites/27/2023/02/brand_2.png" alt="" class="wp-image-1166"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":1167,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.sparkletheme.com/sparkle-fse/sections/wp-content/uploads/sites/27/2023/02/brand_3.png" alt="" class="wp-image-1167"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":1169,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.sparkletheme.com/sparkle-fse/sections/wp-content/uploads/sites/27/2023/02/brand.png" alt="" class="wp-image-1169"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

@@ -1,0 +1,9 @@
+.section-super-title,
+.cons_light_feature.layout_four .feature-list .box {
+    text-align: right;
+}
+
+.counter_suffix {
+    margin-left: unset;
+    margin-right: -10px;
+}
