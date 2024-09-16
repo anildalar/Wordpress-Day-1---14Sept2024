@@ -1,3 +1,18 @@
 /*
     Author: Anil Dollor
 */
+
+body{
+    margin: 0px;
+}
+.a_tbdr{
+    border:1px dashed red;
+}
+header,footer{
+    height: 150px;
+    border:1px dashed red;
+}
+main{
+    min-height: 700px;
+    border:1px dashed blue;
+}
